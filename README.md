@@ -1,6 +1,6 @@
-# Blockchain API
+# Blockchain API from Solana
 
-This is an API to get some details of a specified token.
+This API allows to get some important details of a specified token.
 
 ## Routes
 
